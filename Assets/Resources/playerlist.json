@@ -1,0 +1,5 @@
+{"players":[
+    { "name":"Joe", "health":"100" },
+    { "name":"Warrior", "health":"100" },
+    { "name":"Wizard", "health":"60" }
+]}
